@@ -39,7 +39,7 @@ The course derives motivation from the large matrix data processing task. Hence,
 
 ## Step 2
 * Downloading Data: Using command line tools to get published matrix data stored in local disk
-* Extracting Data: verify we have downloaded correct datasets and (if necessary) bring to a shape that makes it usable (e.g. uncompressing it)
+* Extracting Data: verify we have downloaded correct datasets and (if necessary) bring to a shape that makes it usable (e.g. decompressing it)
 
 ## Step 3
 * Scanning Data Files: get a first high level view of what sort of files we have downloaded

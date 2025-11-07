@@ -1,3 +1,7 @@
+#!/usr/bin/awk -f
+# Copyright (c) 2024 - 2025 Open Risk
+# All rights reserved.
+
 function random_matrix(a, n)
 {
     for (i = 1; i <= n; i++) {

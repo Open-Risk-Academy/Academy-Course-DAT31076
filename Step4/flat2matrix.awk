@@ -1,3 +1,6 @@
+#!/usr/bin/awk -f
+# Copyright (c) 2024 - 2025 Open Risk
+# All rights reserved.
 #
 # awk -v cols=5 -f flat2matrix.awk flat.tsv
 #

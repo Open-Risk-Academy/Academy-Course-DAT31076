@@ -1,5 +1,7 @@
-#
-#
+#!/usr/bin/awk -f
+# Copyright (c) 2024 - 2025 Open Risk
+# All rights reserved.
+
 BEGIN {
     sparse_count = 0
 }
